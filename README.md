@@ -1,3 +1,3 @@
 # APNA-college-
-This is my first repository 
-<bar>Author _ Zaheer Ahmed 
+This is my first repository <br> 
+Author _ Zaheer Ahmed 
