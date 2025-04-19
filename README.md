@@ -1,3 +1,3 @@
 # APNA-college-
 This is my first repository 
-Author _ Zaheer Ahmed 
+<bar>Author _ Zaheer Ahmed 
